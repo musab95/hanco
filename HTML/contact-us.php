@@ -1,33 +1,124 @@
-<?php 
-$to = 'chauhanjeet3@gmail.com'; // Put in your email address here
-$subject  = "Contact us"; // The default subject. Will appear by default in all messages. Change this if you want.
+<?php include 'header.php';?>
 
-// User info (DO NOT EDIT!)
-$fname = stripslashes($_REQUEST['fname']); // sender's name
-$lname = stripslashes($_REQUEST['lname']);
-$email = stripslashes($_REQUEST['email']); // sender's email
-$selectbasic = stripslashes($_REQUEST['selectbasic']); 
-$message = stripslashes($_REQUEST['message']); 
+<div class="tp-breadcrumb"><!-- tp-breadcrumb -->
+  <div class="container">
+    <div class="col-md-offset-3 col-md-5">
+      <ol class="breadcrumb">
+        <li><a href="index.html">Home</a></li>
+        <li class="active">Contact us</li>
+      </ol>
+    </div>
+  </div>
+</div>
+<!-- /.tp-breadcrumb -->
 
-
-// The message you will receive in your mailbox
-// Each parts are commented to help you understand what it does exaclty.
-// YOU DON'T NEED TO EDIT IT BELOW BUT IF YOU DO, DO IT WITH CAUTION!
-$msg .= "Name: ".$fname."\r\n";  // add sender's name to the message
-$msg .= "Last Name: ".$lname."\r\n";  // add sender's name to the message
-$msg .= "E-mail: ".$email."\r\n";  // add sender's email to the message
-$msg .= "Select Basic: ".$selectbasic."\r\n";  // add sender's email to the message
-$message .= "Topicjk: ".$message."\r\n";  // add sender's email to the message
-$msg .= "Subject: ".$subject."\r\n\n"; // add subject to the message (optional! It will be displayed in the header anyway)
-$msg .= "---Message--- \r\n";
-$msg .= "\r\n\n"; 
-
-$mail = @mail($to, $subject, $msg, "From:".$email);  // This command sends the e-mail to the e-mail address contained in the $to variable
-
-if($mail) {
-	header("Location:index.html");	
-} else {
-	echo 'Message could not be sent!';   //This is the message that will be shown when an error occured: the message was not send
-}
-
-?>
+<div id="main-wrapper" class="main-wrapper"><!-- main-wrapper -->
+  <div id="tp-contact-page" class="tp-contact-page"><!-- contact -->
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10 tp-page-title"><!-- page-title -->
+          <h1>Get In Touch</h1>
+          <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut lorem ipsum dolor sit amet labore et dolore aliquaUt enim ad minim veniam quis nostrud exercitation ullamco dorlor sit amet laboris nisi.</p>
+        </div>
+        <!-- /.page-title --> 
+      </div>
+      <div class="row tp-contact-form"><!-- contact-form -->
+          <form role="form" method="post" action="contact-us.php">
+            
+            <!-- Text input-->
+            <div class="form-group">
+              <div class="col-md-6">
+                <label class="control-label" for="fname">First Name</label>
+                <input id="fname" name="fname" type="text" placeholder="" class="form-control input-md" required>
+              </div>
+            </div>
+            
+            <!-- Text input-->
+            <div class="form-group">
+              <div class="col-md-6">
+                <label class="control-label" for="lname">Last Name</label>
+                <input id="lname" name="lname" type="text" placeholder="" class="form-control input-md" required>
+              </div>
+            </div>
+            
+            <!-- Text input-->
+            <div class="form-group">
+              <div class="col-md-6">
+                <label class="control-label" for="email">E mail</label>
+                <input id="email" name="email" type="text" placeholder="" class="form-control input-md" required>
+              </div>
+            </div>
+            
+            <!-- Text input-->
+            <div class="form-group">
+              <div class="col-md-6">
+                <label class="control-label" for="selectbasic">Select Option</label>
+                    <select id="selectbasic" name="selectbasic" class="form-control">
+                      <option value="rolled">Rolled</option>
+                      <option value="sheet steel">Sheet Steel</option>
+                      <option value="steel pipe">Steel Pipe</option>
+                      <option value="copper base">Copper Base</option>
+                      <option value="steel forgings">Steel Forgings</option>
+                      <option value="plates">Plates</option>
+                      <option value="bars">Bars</option>
+                      <option value="rails">Rails</option>
+                    </select>
+              </div>
+            </div>
+            
+            <!-- Textarea -->
+            <div class="form-group">
+              <div class="col-md-12">
+                <label class="control-label" for="textarea">Message</label>
+                <textarea class="form-control" id="textarea" rows="9" name="textarea"></textarea>
+              </div>
+            </div>
+            <div class="col-md-12">
+              <button name="" class="btn btn-submit">Submit</button>
+            </div>
+          </form>
+        </div><!-- /.contact-form -->
+      <div class="row">
+      	<div class="col-md-12">
+        <div class=" tp-contact-block"><!-- contact-block -->
+        	<div class="row ">
+            	<div class="col-md-4">
+                	<h2>Headquater Office</h2>
+                    <ul>
+                    	<li><i class="fa fa-map-marker"></i>  Corner stalte Road and Camell <br>Street,  nicroton apreal<br>Australia - 4006</li>
+                        <li><i class="fa fa-phone"></i>  (022) 1234 5897 </li>
+                        <li><i class="fa fa-fax"></i>  (022) 5678 3213 </li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                	<h2>Corporate Office</h2>
+                    <ul>
+                    	<li><i class="fa fa-map-marker"></i> 34 Stirling Street, Perth, <br> WA Suite 508 Camberra, <br>Australia - 4006 </li>
+                        <li><i class="fa fa-phone"></i>  (022) 1234 5897 </li>
+                        <li><i class="fa fa-fax"></i>  (022) 1234 5897 </li>
+                    </ul>
+                </div>
+               <div class="col-md-4">
+                	<h2>Corporate Office</h2>
+                    <ul>
+                    	<li><i class="fa fa-map-marker"></i>34 Stirling Street, Perth,<br> WA Suite 508 Camberra, <br>Australia - 4006 </li>
+                        <li><i class="fa fa-phone"></i>(022) 1234 5897</li>
+                        <li><i class="fa fa-fax"></i>(022) 1234 5897</li>
+                    </ul>
+                </div>
+        	</div>
+            </div>
+        </div><!-- /.contact-block -->
+      </div>
+      <div class="row">
+      	<div class="col-md-12 tp-contact-map"><!-- contact-map -->
+        	<h2>Locations &amp; Map</h2>
+            <img src="images/map.png" class="img-responsive" alt="">
+        </div><!-- /.contact-map -->
+      </div>
+    </div>
+  </div>
+  <!-- /.contact --> 
+</div>
+<!-- /.main-wrapper --> 
+<?php include 'footer.php';?>
