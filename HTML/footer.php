@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row"><!--footer section first start-->
       <div class="col-md-6 tp-ft-about"><!-- Footer about block start -->
-        <div class="ft-logo"> <img src="images/logo.png" alt=""></div>
+        <div class="ft-logo"><h1 style="color: #FDE22F;">HANCO</h1></div>
         <div class="address"><!--Address start-->
           <ul>
             <li>4578 Marmora Road, MG Glasgow 
