@@ -6,13 +6,11 @@
         <div class="ft-logo"><h1 style="color: #FDE22F;">HANCO</h1></div>
         <div class="address"><!--Address start-->
           <ul>
-            <li>4578 Marmora Road, MG Glasgow 
-              Lesten- D04 89GR,  Australia</li>
-            <li> Phone :     800-2345-6789  /  6889 <br>
-              800-2345-6789  /  6890</li>
-            <li>Fax :            800-2345-6789  /  6889 <br>
-              800-2345-6789  /  6890</li>
-            <li>E-Mail : info@indusmining.com</li>
+            <li>Plot No.&nbsp; 1353,&nbsp; 1354,&nbsp; 1355,&nbsp; Opp. Ganpati Karkhana,&nbsp; Road No. 15,&nbsp; Kalamboli,<br> Navi Mumbai, &nbsp; Raigad. 410218</li>
+            <li> Tel. Off. &nbsp; 27421475 &nbsp; / &nbsp; 27421474 <br>
+                 Mob. No.  &nbsp; 9930667501 &nbsp; / &nbsp; 9833027708</li>
+            <li> Tele Fax No. : &nbsp; 23735795</li>
+            <li>E-Mail : info@hancopipefittings.com</li>
           </ul>
         </div>
         <!--Address End--> 
@@ -23,12 +21,12 @@
       <div class="col-md-6 tp-investor-relation">
         <h2>Quick Links</h2>
         <ul>
-          <li><i class="fa fa-angle-double-right"></i><a href="#">Product 1</a></li>
-          <li><i class="fa fa-angle-double-right"></i><a href="#">Product 2 </a></li>
-          <li> <i class="fa fa-angle-double-right"></i><a href="#">Product 3 </a></li>
-          <li> <i class="fa fa-angle-double-right"></i><a href="#">Product 4 </a></li>
-          <li> <i class="fa fa-angle-double-right"></i><a href="#">Product 5</a></li>
-          <li> <i class="fa fa-angle-double-right"></i><a href="#">Product 6</a></li>
+          <li><i class="fa fa-angle-double-right"></i><a href="#">ELBOW</a></li>
+          <li><i class="fa fa-angle-double-right"></i><a href="#">TEE </a></li>
+          <li> <i class="fa fa-angle-double-right"></i><a href="#">REDUCER </a></li>
+          <li> <i class="fa fa-angle-double-right"></i><a href="#">CAP </a></li>
+          <li> <i class="fa fa-angle-double-right"></i><a href="#">STAB END</a></li>
+          <li> <i class="fa fa-angle-double-right"></i><a href="#">More Products</a></li>
         </ul>
       </div>
       <!--Investor relation block end--> 

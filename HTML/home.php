@@ -4,19 +4,19 @@
 <div class="slider-wrapper" id="slider">
   <div class="fluid_container">
     <div class="camera_wrap" id="camera_wrap_1">
-      <div data-src="images/slider-3.jpg">
+      <div data-src="images/slider3.jpg">
         <div class="camera_caption fadeIn">
           <h1>ALL KINDS OF STEEL PRODUCTS</h1>
           <p>Donec porta diam eumassauisque diam lorem interdum vitae dapibus ac scelerisque vitae pede onec porta diam eu massauisque diam lorem interdum vitae dapibus ac scelerisque vitae pede.</p>
         </div>
       </div>
-      <div  data-src="images/slider-2.jpg">
+      <div  data-src="images/slide1.jpg">
         <div class="camera_caption fadeIn">
           <h1> Steel's branded products and solutions</h1>
           <p>Donec porta diam eu massauisque diam lorem interdum vitae dapibus acscelerisque vitae pede onec porta diam eu massauisque diam lorem interdum vitae dapibus ac scelerisque vitae pede.</p>
            </div>
       </div>
-      <div data-src="images/slider-1.jpg">
+      <div data-src="images/slide2.jpg">
         <div class="camera_caption fadeIn">
           <h1>Our main goal is continuously satisfy our clients</h1>
           <p>Donec porta diam eu massauisque diam lorem, interdum vitae dapibus ac scelerisque vitae pede onec porta diam eu massauisque diam lorem, interdum vitae dapibus ac scelerisque vitae pede.</p>

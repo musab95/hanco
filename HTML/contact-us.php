@@ -82,30 +82,38 @@
       	<div class="col-md-12">
         <div class=" tp-contact-block"><!-- contact-block -->
         	<div class="row ">
-            	<div class="col-md-4">
-                	<h2>Headquater Office</h2>
+            	<div class="col-md-6">
+                	<h2>Sales Office</h2>
                     <ul>
-                    	<li><i class="fa fa-map-marker"></i>  Corner stalte Road and Camell <br>Street,  nicroton apreal<br>Australia - 4006</li>
-                        <li><i class="fa fa-phone"></i>  (022) 1234 5897 </li>
-                        <li><i class="fa fa-fax"></i>  (022) 5678 3213 </li>
+                    	<li><i class="fa fa-map-marker"></i>  Plot No. &nbsp; 1353, &nbsp; 1354, &nbsp; 1355, &nbsp; Opp. Ganpati Karkhana,
+							<br> Road No. 15, &nbsp; Kalamboli, &nbsp; Navi Mumbai, &nbsp; Raigad. 410218</li>
+						<li><i class="fa fa-phone"></i>  (022) &nbsp; 27421475 &nbsp; / &nbsp; 27421474 </li>
+                        <li><i class="fa fa-fax"></i>  (022) &nbsp; 23735795 </li>
+						<li><i class="fa fa-user"></i> Mohd. Haroon Khan (Proprietor) </li>
+						<li><i class="fa fa-mobile" style="font-size: 21px;"></i> 9930667501 &nbsp; / &nbsp; 9833027708</li>
+						<li><i class="fa fa-envelope"></i> <a href="mailto:hancopipefittings@gmail.com"> hancopipefittings@gmail.com </a> </li>
                     </ul>
                 </div>
-                <div class="col-md-4">
-                	<h2>Corporate Office</h2>
+                <div class="col-md-6">
+                	<h2>Registered Office</h2>
                     <ul>
-                    	<li><i class="fa fa-map-marker"></i> 34 Stirling Street, Perth, <br> WA Suite 508 Camberra, <br>Australia - 4006 </li>
-                        <li><i class="fa fa-phone"></i>  (022) 1234 5897 </li>
-                        <li><i class="fa fa-fax"></i>  (022) 1234 5897 </li>
+                    	<li><i class="fa fa-map-marker"></i> Plot No. &nbsp; 1354, &nbsp; Opp. Ganpati Karkhana, &nbsp; Road No. 15, 
+							<br> Kalamboli, &nbsp; Navi Mumbai, &nbsp; Raigad.410218 </li>
+						<li><i class="fa fa-phone"></i>  (022) &nbsp; 27421475 &nbsp; / &nbsp; 27421474 </li>
+                        <li><i class="fa fa-fax"></i>  (022) &nbsp; 23735795 </li>
+						<li><i class="fa fa-user"></i> Mohd. Nafis Khan </li>
+						<li><i class="fa fa-mobile" style="font-size: 21px;"></i> 9869055795</li>
+						<li><i class="fa fa-envelope"></i> <a href="mailto:mntubecorporation@gmail.com"> mntubecorporation@gmail.com </a> </li>
                     </ul>
                 </div>
-               <div class="col-md-4">
+               <!-- class="col-md-4">
                 	<h2>Corporate Office</h2>
                     <ul>
                     	<li><i class="fa fa-map-marker"></i>34 Stirling Street, Perth,<br> WA Suite 508 Camberra, <br>Australia - 4006 </li>
                         <li><i class="fa fa-phone"></i>(022) 1234 5897</li>
                         <li><i class="fa fa-fax"></i>(022) 1234 5897</li>
                     </ul>
-                </div>
+                </div-->
         	</div>
             </div>
         </div><!-- /.contact-block -->
@@ -113,7 +121,7 @@
       <div class="row">
       	<div class="col-md-12 tp-contact-map"><!-- contact-map -->
         	<h2>Locations &amp; Map</h2>
-            <img src="images/map.png" class="img-responsive" alt="">
+            <img src="images/contact.png" class="img-responsive" alt="">
         </div><!-- /.contact-map -->
       </div>
     </div>
