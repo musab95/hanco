@@ -26,7 +26,6 @@
           <li> <i class="fa fa-angle-double-right"></i><a href="#">REDUCER </a></li>
           <li> <i class="fa fa-angle-double-right"></i><a href="#">CAP </a></li>
           <li> <i class="fa fa-angle-double-right"></i><a href="#">STAB END</a></li>
-          <li> <i class="fa fa-angle-double-right"></i><a href="#">More Products</a></li>
         </ul>
       </div>
       <!--Investor relation block end--> 
