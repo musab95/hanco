@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+ @media screen and (max-width: 768px) {
+	 
+	 /*************  tp-top-bar  ***************/
+	 
+	 .tp-top-bar ul.links li{display:none;}
+	 
+	 /*************  slider-wrapper   ***************/
+	 .slider-wrapper {display:none;}
+	 
+	 /***********  tp-project-section  *************/
+	  a:focus {  color: #1f1f1f;}
+	  
+	  /***************** News / Blog Section Start **********/
+	  .tp-about-page .tp-thumb-box .thumb-block{margin-top:15px;}
+	  
+	  /***************** Mission Page *****************/
+	  .tp-mission-page .tp-mission-block .icon{margin-bottom:15px;}
+	  .tp-mission-page .tp-mission-block .icon{ top: 0px; }
+	  
+	  /*****************  Blog Page  **********************/
+	  .tp-blog-page .left-side .tp-blog-info{  padding: 40px 0px;}
+	  
+	  /************* Home Page v2 *****************/
+	  .tp-service .tp-service-info {margin-top: 100px;}
+	  .tp-service .tp-service-info .btn-outline{margin-bottom:30px;}
+	  .tp-pic {margin-bottom: 20px;}
+	  
+	  /************** 404 error Page ******************/
+	  
+	  .tp-error-page h1 {font-size: 150px; text-align: center; color: #fde230; font-weight: 600;}
+	  
+ }
+
+
+
+
+
