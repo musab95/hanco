@@ -16,14 +16,14 @@
     	<div class="container">
         <div class="row">
         	<div class="col-md-12 tp-page-title">
-            	<h1>Products List Style</h1>
+            	<h1>Products List</h1>
             </div>
         </div>
         	<div class="row">
             <div class="col-md-12">
             	<!-- <div class="left-side"> --><!-- left-side -->
-                	<div class="col-md-6" style="margin-bottom: 50px;"><!-- tp-product-block -->
-                    	<div class="col-md-5">
+                	<div class="col-md-6 prod-padding" ><!-- tp-product-block -->
+                    	<div class="col-md-5" style="padding-bottom: 15px;">
                         	<div class="tp-product-pic"><!-- tp-product-pic -->
                             	<img src="images/rolled-steel.jpg" class="img-responsive" alt="">
                             </div><!-- /.tp-product-pic -->
@@ -32,12 +32,12 @@
                         	<div class="tp-product-info"><!-- tp-product-info -->
                             	<h2><a href="#">Tee</a></h2>
                                 <!-- <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p> -->
-                                <a href="product-detail.html" class="btn btn-outline">Read more</a>
+                                <a href="tee.php" class="btn btn-outline">Read more</a>
                             </div><!-- /.tp-product-info -->
                         </div>
                     </div><!-- /.tp-product-block -->
-                    <div class="col-md-6" style="margin-bottom: 50px;"><!-- tp-product-block -->
-                    	<div class="col-md-5">
+                    <div class="col-md-6 prod-padding" ><!-- tp-product-block -->
+                    	<div class="col-md-5" style="padding-bottom: 15px;">
                         	<div class="tp-product-pic"><!-- tp-product-pic -->
                             	<img src="images/sheet-steel.jpg" class="img-responsive" alt="">
                             </div><!-- /.tp-product-pic -->
@@ -46,12 +46,12 @@
                         	<div class="tp-product-info"><!-- tp-product-info -->
                             	<h2><a href="#">Elbow</h2>
                                 <!-- <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p> -->
-                                <a href="#" class="btn btn-outline">Read more</a>
+                                <a href="elbow.php" class="btn btn-outline">Read more</a>
                             </div><!-- /.tp-product-info -->
                         </div>
                     </div><!-- /.tp-product-block -->
-                    <div class="col-md-6" style="margin-bottom: 50px;"><!-- tp-product-block -->
-                    	<div class="col-md-5">
+                    <div class="col-md-6 prod-padding" ><!-- tp-product-block -->
+                    	<div class="col-md-5" style="padding-bottom: 15px;">
                         	<div class="tp-product-pic"><!-- tp-product-pic -->
                             	<img src="images/steel-pipes.jpg" class="img-responsive" alt="">
                             </div><!-- /.tp-product-pic -->
@@ -60,12 +60,12 @@
                         	<div class="tp-product-info"><!-- tp-product-info -->
                             	<h2><a href="#">Cap</a></h2>
                                 <!-- <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p> -->
-                                <a href="#" class="btn btn-outline">Read more</a>
+                                <a href="cap.php" class="btn btn-outline">Read more</a>
                             </div><!-- /.tp-product-info -->
                         </div>
                     </div><!-- /.tp-product-block -->
-                    <div class="col-md-6" style="margin-bottom: 50px;"><!-- tp-product-block -->
-                    	<div class="col-md-5">
+                    <div class="col-md-6 prod-padding" ><!-- tp-product-block -->
+                    	<div class="col-md-5" style="padding-bottom: 15px;">
                         	<div class="tp-product-pic"><!-- tp-product-pic -->
                             	<img src="images/sheet-steel.jpg" class="img-responsive" alt="">
                             </div><!-- /.tp-product-pic -->
@@ -74,7 +74,7 @@
                         	<div class="tp-product-info"><!-- tp-product-info -->
                             	<h2><a href="#">Reducer</a></h2>
                                 <!-- <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p> -->
-                                <a href="#" class="btn btn-outline">Read more</a>
+                                <a href="reducer.php" class="btn btn-outline">Read more</a>
                             </div><!-- /.tp-product-info -->
                         </div>
                     </div><!-- /.tp-product-block -->
