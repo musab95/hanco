@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- Footer section start-->
 <div id="footer" class="footer-section">
   <div class="container">
@@ -162,4 +161,3 @@
 <script src="js/main.js"></script> <!-- Gem jQuery -->
 </body>
 </html>
->>>>>>> 5a4e096d778d0f362d01535f6cd147979ec1cd5a
