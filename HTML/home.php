@@ -113,32 +113,31 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 tp-heading-title"><!--tp-heading title start-->
-        <h1>Welcome to our company</h1>
-        <p>Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda.</p>
+        <h1>Welcome to Hanco Pipe & Fitting</h1>
       </div>
       <!--tp-heading title start--> 
     </div>
     <div class="row">
       <div class="col-md-6 tp-about-dec">
         <h1>Who We Are</h1>
-        <p class="lead">Lorem ipsum dolol standards in the productio orem imet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-        <p>Lorem ipsum dolol standards in the productio orem imet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolol standards in the productio orem imet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-        <a href="#" class="btn-outline btn">More Details</a> </div>
+        <p class="lead">Manufacturer & Stockist: M.S. SEAMLESS, BOILERS HYDRAULIC, ERW, PIPES FITTINGS, FLANGES & TUBES Etc.</p>
+        <p style="color:#afafaf;font-size:16px;">We are a leading manufacturer & Stockist , Supplier of Broad Array of quality pipe fittings for projects and engineering services needs in diverse industry verticals such as Oil & Gas, Petrochemical, Power conventional as well as nuclear, Steel Plants, Textile, Shipping & all other process industries</p>
+        <a href="about-us.php" class="btn-outline btn">More Details</a> </div>
       <!--About Feature Section Start-->
       <div class="col-md-6 tp-about-feature">
         <div class="row">
           <div class="col-md-12 tp-about-block"><!--Our History Block Start-->
             <h2><span><i class="fa fa-gears"></i></span>Technology</h2>
-            <p>Sedquis viverra enim. Vivamus aliquet rutrum dui a varius. Mauris ornare tortor in eleifend blanditullam ut ligula et neque.</p>
+            <p style="color:#afafaf;font-size:16px;">Quality pipe fittings for projects and engineering services needs in diverse industry verticals such as Oil & Gas...<a href="about-us.php">Read More</a></a></p>
           </div>
           <!--Our History Block Close-->
           <div class="col-md-12 tp-about-block"><!--Our History Block Start-->
             <h2><span><i class="fa fa-dashboard"></i></span>Performance</h2>
-            <p>Praesent eget bibendum purus, quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies</p>
+            <p style="color:#afafaf;font-size:16px;">Hanco Pipe & Fitting specializes in exclusive products and specialized services like Quick delivery...<a href="about-us.php">Read More</a></p>
           </div>
           <div class="col-md-12 tp-about-block"><!--Our History Block Start-->
-            <h2><span><i class="fa fa-lightbulb-o"></i></span>Innovations</h2>
-            <p>Praesent eget bibendum purus, quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies</p>
+            <h2><span><i class="fa fa-users"></i></span>Customers</h2>
+            <p style="color:#afafaf;font-size:16px;">Over the years, we have always remained focused on our customers, developing our products to meet new challenges...<a href="about-us.php">Read More</a></p>
           </div>
         </div>
       </div>
