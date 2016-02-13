@@ -22,9 +22,9 @@
         <h2>Quick Links</h2>
         <ul>
           <li><i class="fa fa-angle-double-right"></i><a href="#">TEE </a></li>
-          <li><i class="fa fa-angle-double-right"></i><a href="#">ELBOW</a></li>
-          <li> <i class="fa fa-angle-double-right"></i><a href="#">REDUCER </a></li>
           <li> <i class="fa fa-angle-double-right"></i><a href="#">CAP </a></li>
+          <li><i class="fa fa-angle-double-right"></i><a href="#">ELBOW</a></li>
+          <li> <i class="fa fa-angle-double-right"></i><a href="#">REDUCER </a></li>          
           <li> <i class="fa fa-angle-double-right"></i><a href="#">See All Products</a></li>
         </ul>
       </div>

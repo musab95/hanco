@@ -16,11 +16,12 @@
 			<div class="row tp-about-info"><!-- tp about info -->
 				<div class="col-md-6 tp-about-block"><!-- tp about block -->
 					<h1>Who We Are</h1>
-					<p class="lead">Manufacturer & Stockist: M.S. SEAMLESS, BOILERS HYDRAULIC, ERW, PIPES FITTINGS, FLANGES & TUBES Etc.</p>
-					<p>We are a leading manufacturer & Stockist , Supplier of Broad Array of quality pipe fittings for projects and engineering services needs in diverse industry verticals such as Oil & Gas, Petrochemical, Power conventional as well as nuclear, Steel Plants, Textile, Shipping & all other process industries</p>
+					<p class="lead">Lorem ipsum dolol standards in the productio orem imet at consectetur adipisicing incididunt aliqua. </p>
+					<p>Lorem ipsum dolol standards in the productio orem imet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolol et nop standards in the productio  Nam vitae massa sceleri sque.</p>
+					<a href="board-members.html" class="btn-outline">Meet The Team</a>
 				</div><!-- /.tp about block -->
 				<div class="col-md-6 tp-about-pic"><!-- tp about pic -->
-					<img src="images/abt.jpg" style="width:500px;" class="img-responsive" alt="hancopipefittings.com">
+					<img src="images/about-pic.jpg" class="img-responsive" alt="">
 				</div><!-- /.tp about pic -->
 			</div><!-- /.tp about info -->
 			<div class="row tp-why-us">	<!-- tp why us -->
