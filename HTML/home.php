@@ -7,19 +7,19 @@
       <div data-src="images/slider3.jpg">
         <div class="camera_caption fadeIn">
           <h1>ALL KINDS OF STEEL PRODUCTS</h1>
-        <!--  <p>Donec porta diam eumassauisque diam lorem interdum vitae dapibus ac scelerisque vitae pede onec porta diam eu massauisque diam lorem interdum vitae dapibus ac scelerisque vitae pede.</p>-->
+          <!-- <p>Donec porta diam eumassauisque diam lorem interdum vitae dapibus ac scelerisque vitae pede onec porta diam eu massauisque diam lorem interdum vitae dapibus ac scelerisque vitae pede.</p> -->
         </div>
       </div>
       <div  data-src="images/slide1.jpg">
         <div class="camera_caption fadeIn">
           <h1> Steel's branded products and solutions</h1>
-  <!--        <p>Donec porta diam eu massauisque diam lorem interdum vitae dapibus acscelerisque vitae pede onec porta diam eu massauisque diam lorem interdum vitae dapibus ac scelerisque vitae pede.</p>-->
+          <!-- <p>Donec porta diam eu massauisque diam lorem interdum vitae dapibus acscelerisque vitae pede onec porta diam eu massauisque diam lorem interdum vitae dapibus ac scelerisque vitae pede.</p> -->
            </div>
       </div>
       <div data-src="images/slide2.jpg">
         <div class="camera_caption fadeIn">
           <h1>Our main goal is continuously satisfy our clients</h1>
-      <!--    <p>Donec porta diam eu massauisque diam lorem, interdum vitae dapibus ac scelerisque vitae pede onec porta diam eu massauisque diam lorem, interdum vitae dapibus ac scelerisque vitae pede.</p>-->
+          <!-- <p>Donec porta diam eu massauisque diam lorem, interdum vitae dapibus ac scelerisque vitae pede onec porta diam eu massauisque diam lorem, interdum vitae dapibus ac scelerisque vitae pede.</p> -->
            </div>
       </div>
     </div>
@@ -39,14 +39,14 @@
     </div>
     <div class="portfolioFilter"> 
       <a href="#" data-filter="*" class="current btn-outline">All</a> 
-      <a href="#" data-filter=".category-1" class="btn-outline">Sheet Steel</a> 
-      <a href="#" data-filter=".category-2" class="btn-outline">Rolled</a> 
-      <a href="#" data-filter=".category-3" class="btn-outline">Steel Pipes</a> 
-      <a href="#" data-filter=".category-4" class="btn-outline">Copper Base</a> 
-      <a href="#" data-filter=".category-5" class="btn-outline">Steel Forgings</a> 
+      <a href="#" data-filter=".category-1" class="btn-outline">Tee </a>
+      <a href="#" data-filter=".category-2" class="btn-outline">Elbow </a>
+      <a href="#" data-filter=".category-3" class="btn-outline">Cap</a>
+      <a href="#" data-filter=".category-4" class="btn-outline">Reducer</a>
+      <!-- <a href="#" data-filter=".category-5" class="btn-outline">Steel Forgings</a> 
       <a href="#" data-filter=".category-6" class="btn-outline">Plates</a> 
       <a href="#" data-filter=".category-7" class="btn-outline">Bars</a> 
-      <a href="#" data-filter=".category-8" class="btn-outline">Rails</a> </div>
+      <a href="#" data-filter=".category-8" class="btn-outline">Rails</a> --> </div>
     <div class="portfolioContainer">
       <div class="category-4">
         <div class="tp-pic box"> <img src="images/sheet-steel.jpg" class="img-responsive imagezoom" alt="images">

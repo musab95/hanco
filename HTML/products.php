@@ -30,8 +30,8 @@
                         </div>
                         <div class="col-md-7">
                         	<div class="tp-product-info"><!-- tp-product-info -->
-                            	<h2><a href="#">Rolled Sheet</a></h2>
-                                <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p>
+                            	<h2><a href="#">Tee</a></h2>
+                                <!-- <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p> -->
                                 <a href="product-detail.html" class="btn btn-outline">Read more</a>
                             </div><!-- /.tp-product-info -->
                         </div>
@@ -44,8 +44,8 @@
                         </div>
                         <div class="col-md-7">
                         	<div class="tp-product-info"><!-- tp-product-info -->
-                            	<h2><a href="#">Sheet Steel</a></h2>
-                                <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p>
+                            	<h2><a href="#">Elbow</h2>
+                                <!-- <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p> -->
                                 <a href="#" class="btn btn-outline">Read more</a>
                             </div><!-- /.tp-product-info -->
                         </div>
@@ -58,8 +58,8 @@
                         </div>
                         <div class="col-md-7">
                         	<div class="tp-product-info"><!-- tp-product-info -->
-                            	<h2><a href="#">Steel Pipe</a></h2>
-                                <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p>
+                            	<h2><a href="#">Cap</a></h2>
+                                <!-- <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p> -->
                                 <a href="#" class="btn btn-outline">Read more</a>
                             </div><!-- /.tp-product-info -->
                         </div>
@@ -72,70 +72,29 @@
                         </div>
                         <div class="col-md-7">
                         	<div class="tp-product-info"><!-- tp-product-info -->
-                            	<h2><a href="#">Copper Base</a></h2>
-                                <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p>
+                            	<h2><a href="#">Reducer</a></h2>
+                                <!-- <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p> -->
                                 <a href="#" class="btn btn-outline">Read more</a>
                             </div><!-- /.tp-product-info -->
                         </div>
                     </div><!-- /.tp-product-block -->
-                    <div class="row tp-product-block"><!-- tp-product-block -->
+                   
+                    
+                    <!-- <div class="row tp-product-block"><!-- tp-product-block >
                     	<div class="col-md-5">
-                        	<div class="tp-product-pic"><!-- tp-product-pic -->
-                            	<img src="images/steel-plate.jpg" class="img-responsive" alt="">
-                            </div><!-- /.tp-product-pic -->
-                        </div>
-                        <div class="col-md-7">
-                        	<div class="tp-product-info"><!-- tp-product-info -->
-                            	<h2><a href="#">Plates</a></h2>
-                                <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p>
-                                <a href="#" class="btn btn-outline">Read more</a>
-                            </div><!-- /.tp-product-info -->
-                        </div>
-                    </div><!-- /.tp-product-block -->
-                    <div class="row tp-product-block"><!-- tp-product-block -->
-                    	<div class="col-md-5">
-                        	<div class="tp-product-pic"><!-- tp-product-pic -->
-                            	<img src="images/steel_bars.jpg" class="img-responsive" alt="">
-                            </div><!-- /.tp-product-pic -->
-                        </div>
-                        <div class="col-md-7">
-                        	<div class="tp-product-info"><!-- tp-product-info -->
-                            	<h2><a href="#">Bars</a></h2>
-                                <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p>
-                                <a href="#" class="btn btn-outline">Read more</a>
-                            </div><!-- /.tp-product-info -->
-                        </div>
-                    </div><!-- /.tp-product-block -->
-                    <div class="row tp-product-block"><!-- tp-product-block -->
-                    	<div class="col-md-5">
-                        	<div class="tp-product-pic"><!-- tp-product-pic -->
+                        	<div class="tp-product-pic"><!-- tp-product-pic>
                             	<img src="images/sheet-steel.jpg" class="img-responsive" alt="">
-                            </div><!-- /.tp-product-pic -->
+                            </div><!-- /.tp-product-pic >
                         </div>
                         <div class="col-md-7">
-                        	<div class="tp-product-info"><!-- tp-product-info -->
+                        	<div class="tp-product-info"><!-- tp-product-info >
                             	<h2><a href="#">Steel Forgings</a></h2>
                                 <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p>
                                 <a href="#" class="btn btn-outline">Read more</a>
-                            </div><!-- /.tp-product-info -->
+                            </div><!-- /.tp-product-info >
                         </div>
-                    </div><!-- /.tp-product-block -->
-                    <div class="row tp-product-block"><!-- tp-product-block -->
-                    	<div class="col-md-5">
-                        	<div class="tp-product-pic"><!-- tp-product-pic -->
-                            	<img src="images/steel-rail.jpg" class="img-responsive" alt="">
-                            </div><!-- /.tp-product-pic -->
-                        </div>
-                        <div class="col-md-7">
-                        	<div class="tp-product-info"><!-- tp-product-info -->
-                            	<h2><a href="#">Rails</a></h2>
-                                <p>Duis ultricies sem sapien, ut euismod nisl rutrumlass aptent taciti sociosqu ad litora torquent per conubia sit nostra, per inceptos himenaeos. Mauris iaculisamet lorem  malesuada vestibulum Ut efficitur porttitor magna.</p>
-                                <a href="#" class="btn btn-outline">Read more</a>
-                            </div><!-- /.tp-product-info -->
-                        </div>
-                    </div><!-- /.tp-product-block -->
-                <!-- </div> --><!-- /.left-side -->
-            </div>
+                    </div><!-- /.tp-product-block --> 
+                </div>
                 <!-- <div class="col-md-4">
                 <div class="right-side"><!-- right-side ->
                 <div class="row">
