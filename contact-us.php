@@ -23,7 +23,7 @@
         <!-- /.page-title --> 
       </div>
       <div class="row tp-contact-form"><!-- contact-form -->
-          <form role="form" method="post" action="contact-us.php">
+           <form class="form-contact" name="contact" method="post" action="connection.php">
             
             <!-- Text input-->
             <div class="form-group">
@@ -44,7 +44,7 @@
             <!-- Text input-->
             <div class="form-group">
               <div class="col-md-6">
-                <label class="control-label" for="email">E mail</label>
+                <label class="control-label" for="email">E-mail</label>
                 <input id="email" name="email" type="text" placeholder="" class="form-control input-md" required>
               </div>
             </div>
@@ -53,7 +53,7 @@
             <div class="form-group">
               <div class="col-md-6">
                 <label class="control-label" for="selectbasic">Select Option</label>
-                    <select id="selectbasic" name="selectbasic" class="form-control">
+                    <select id="selectbasic" name="product" class="form-control">
                       <option value="rolled">Rolled</option>
                       <option value="sheet steel">Sheet Steel</option>
                       <option value="steel pipe">Steel Pipe</option>
@@ -70,7 +70,7 @@
             <div class="form-group">
               <div class="col-md-12">
                 <label class="control-label" for="textarea">Message</label>
-                <textarea class="form-control" id="textarea" rows="9" name="textarea"></textarea>
+                <textarea class="form-control" id="textarea" rows="9" name="message"></textarea>
               </div>
             </div>
             <div class="col-md-12">
