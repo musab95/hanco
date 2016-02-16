@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row"><!--footer section first start-->
       <div class="col-md-6 tp-ft-about"><!-- Footer about block start -->
-        <div class="ft-logo"><h1 style="color: #FDE22F;">HANCO</h1></div>
+        <div class="ft-logo"><img src="images/hanco-logo.png" alt="hancopipefittings" style="margin-top: -49px;"></div>
         <div class="address"><!--Address start-->
           <ul>
             <li>Plot No.&nbsp; 1353,&nbsp; 1354,&nbsp; 1355,&nbsp; Opp. Ganpati Karkhana,&nbsp; Road No. 15,&nbsp; Kalamboli,<br> Navi Mumbai, &nbsp; Raigad. 410218</li>
@@ -21,11 +21,10 @@
       <div class="col-md-6 tp-investor-relation">
         <h2>Quick Links</h2>
         <ul>
-          <li><i class="fa fa-angle-double-right"></i><a href="#">TEE </a></li>
-          <li> <i class="fa fa-angle-double-right"></i><a href="#">CAP </a></li>
-          <li><i class="fa fa-angle-double-right"></i><a href="#">ELBOW</a></li>
-          <li> <i class="fa fa-angle-double-right"></i><a href="#">REDUCER </a></li>          
-          <li> <i class="fa fa-angle-double-right"></i><a href="#">See All Products</a></li>
+          <li><i class="fa fa-angle-double-right"></i><a href="tee.php">TEE </a></li>
+          <li> <i class="fa fa-angle-double-right"></i><a href="cap.php">CAP </a></li>
+          <li><i class="fa fa-angle-double-right"></i><a href="elbow.php">ELBOW</a></li>
+          <li> <i class="fa fa-angle-double-right"></i><a href="reducer.php">REDUCER </a></li>          
         </ul>
       </div>
       <!--Investor relation block end--> 

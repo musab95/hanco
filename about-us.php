@@ -20,7 +20,7 @@
 					<p style="font-size:16px;color:#afafaf;">We are a leading manufacturer & Stockist , Supplier of Broad Array of quality pipe fittings for projects and engineering services needs in diverse industry verticals such as Oil & Gas, Petrochemical, Power conventional as well as nuclear, Steel Plants, Textile, Shipping & all other process industries</p>
 				</div><!-- /.tp about block -->
 				<div class="col-md-6 tp-about-pic"><!-- tp about pic -->
-					<img src="images/abt.jpeg" style="width:500px;" class="img-responsive" alt="hancopipefittings.com">
+					<img src="images/about.jpg" style="width:500px;" class="img-responsive" alt="hancopipefittings.com">
 				</div><!-- /.tp about pic -->
 			</div><!-- /.tp about info -->
 			<div class="row tp-why-us">	<!-- tp why us -->
