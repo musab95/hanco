@@ -48,59 +48,59 @@
       <a href="#" data-filter=".category-7" class="btn-outline">Bars</a> 
       <a href="#" data-filter=".category-8" class="btn-outline">Rails</a> --> </div>
     <div class="portfolioContainer">
-      <div class="category-4">
-        <div class="tp-pic box"> <img src="images/sheet-steel.jpg" class="img-responsive imagezoom" alt="images">
+      <div class="category-3">
+        <div class="tp-pic box"> <img src="images/cap/cap1.png" class="img-responsive imagezoom" alt="images">
           <div class="caption scale-caption">
-            <h1>Sheet Steel</h1>
+            <h1>CAP</h1>
            </div>
         </div>
       </div>
-      <div class="category-1 category-2 ">
-        <div class="tp-pic box"><img src="images/project-2.jpg" class="img-responsive imagezoom" alt="images">
+      <div class="category-3">
+        <div class="tp-pic box"><img src="images/cap/cap2.png" class="img-responsive imagezoom" alt="images">
           <div class="caption scale-caption">
-            <h1>Rolled</h1>
+            <h1>CAP</h1>
             </div>
         </div>
       </div>
-      <div class="category-3 ">
-        <div class="tp-pic box"><img src="images/steel-pipes.jpg" class="img-responsive imagezoom" alt="images">
+      <div class="category-1">
+        <div class="tp-pic box"><img src="images/tee/tee1.png" class="img-responsive imagezoom" alt="images">
           <div class="caption scale-caption">
-            <h1>Steel Pipes</h1>
+            <h1>TEE</h1>
             </div>
         </div>
       </div>
       <div class="category-1 ">
-        <div class="tp-pic box"><img src="images/project-2.jpg" class="img-responsive imagezoom" alt="images">
+        <div class="tp-pic box"><img src="images/tee/tee2.png" class="img-responsive imagezoom" alt="images">
           <div class="caption scale-caption">
-            <h1>Copper Base</h1>
+            <h1>TEE</h1>
             </div>
         </div>
       </div>
-      <div class="category-1 category-2 category-8">
-        <div class="tp-pic box"><img src="images/project.jpg" class="img-responsive imagezoom" alt="images">
+      <div class="category-2">
+        <div class="tp-pic box"><img src="images/elbow/elbow1.png" class="img-responsive imagezoom" alt="images">
           <div class="caption scale-caption">
-            <h1>Steel Forgings</h1>
+            <h1>ELBOW</h1>
             </div>
         </div>
       </div>
-      <div class="category-4 category-5 category-8">
-        <div class="tp-pic box"><img src="images/steel-rail.jpg" class="img-responsive imagezoom" alt="images">
+      <div class="category-2">
+        <div class="tp-pic box"><img src="images/elbow/elbow2.png" class="img-responsive imagezoom" alt="images">
           <div class="caption scale-caption">
-            <h1>Steel Rails</h1>
+            <h1>ELBOW</h1>
             </div>
         </div>
       </div>
-      <div class="category-1 category-7">
-        <div class="tp-pic box"><img src="images/steel-plate.jpg" class="img-responsive imagezoom" alt="images">
+      <div class="category-4">
+        <div class="tp-pic box"><img src="images/reducer/reducer1.png" class="img-responsive imagezoom" alt="images">
           <div class="caption scale-caption">
-            <h1>Plates</h1>
+            <h1>REDUCER</h1>
             </div>
         </div>
       </div>
-      <div class="category-8 category-6 category-2">
-        <div class="tp-pic box"><img src="images/steel_bars.jpg" class="img-responsive imagezoom" alt="images">
+      <div class="category-4">
+        <div class="tp-pic box"><img src="images/reducer/reducer2.png" class="img-responsive imagezoom" alt="images">
           <div class="caption scale-caption">
-            <h1>Bars</h1>
+            <h1>REDUCER</h1>
             </div>
         </div>
       </div>
@@ -152,11 +152,16 @@
   <div class="container">
     <div id="owl-demo"><!--client logo slide section start-->
       
-      <div class="item"><img src="images/client-logo.png" alt="mining company logo"></div>
-      <div class="item"><img src="images/client-logo-3.png" alt="mining company logo"></div>
-      <div class="item"><img src="images/client-logo-4.png" alt="mining company logo"></div>
-      <div class="item"><img src="images/client-logo.png" alt="mining company logo"></div>
-      <div class="item"><img src="images/client-logo-3.png" alt="mining company logo"></div>
+      <div class="item"><img src="images/bottom_slider/1.png" alt="mining company logo"></div>
+      <div class="item"><img src="images/bottom_slider/2.png" alt="mining company logo"></div>
+      <div class="item"><img src="images/bottom_slider/3.png" alt="mining company logo"></div>
+      <div class="item"><img src="images/bottom_slider/4.png" alt="mining company logo"></div>
+      <div class="item"><img src="images/bottom_slider/5.png" alt="mining company logo"></div>
+
+      <div class="item"><img src="images/bottom_slider/6.png" alt="mining company logo"></div>
+      <div class="item"><img src="images/bottom_slider/7.png" alt="mining company logo"></div>
+      <div class="item"><img src="images/bottom_slider/8.png" alt="mining company logo"></div>
+      <div class="item"><img src="images/bottom_slider/9.png" alt="mining company logo"></div>
     </div>
     <!--client logo slide section end--> 
     

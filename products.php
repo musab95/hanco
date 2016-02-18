@@ -25,7 +25,7 @@
                 	<div class="col-md-6 prod-padding" ><!-- tp-product-block -->
                     	<div class="col-md-5" style="padding-bottom: 15px;">
                         	<div class="tp-product-pic"><!-- tp-product-pic -->
-                            	<img src="images/rolled-steel.jpg" class="img-responsive" alt="">
+                            	<img src="images/tee/TEE Equal.png" class="img-responsive" alt="">
                             </div><!-- /.tp-product-pic -->
                         </div>
                         <div class="col-md-7">
@@ -39,7 +39,7 @@
                     <div class="col-md-6 prod-padding" ><!-- tp-product-block -->
                     	<div class="col-md-5" style="padding-bottom: 15px;">
                         	<div class="tp-product-pic"><!-- tp-product-pic -->
-                            	<img src="images/sheet-steel.jpg" class="img-responsive" alt="">
+                            	<img src="images/elbow/elb.png" class="img-responsive" alt="">
                             </div><!-- /.tp-product-pic -->
                         </div>
                         <div class="col-md-7">
@@ -53,7 +53,7 @@
                     <div class="col-md-6 prod-padding" ><!-- tp-product-block -->
                     	<div class="col-md-5" style="padding-bottom: 15px;">
                         	<div class="tp-product-pic"><!-- tp-product-pic -->
-                            	<img src="images/steel-pipes.jpg" class="img-responsive" alt="">
+                            	<img src="images/cap/cap2.png" class="img-responsive" alt="">
                             </div><!-- /.tp-product-pic -->
                         </div>
                         <div class="col-md-7">
@@ -67,7 +67,7 @@
                     <div class="col-md-6 prod-padding" ><!-- tp-product-block -->
                     	<div class="col-md-5" style="padding-bottom: 15px;">
                         	<div class="tp-product-pic"><!-- tp-product-pic -->
-                            	<img src="images/sheet-steel.jpg" class="img-responsive" alt="">
+                            	<img src="images/reducer/reducer1.png" class="img-responsive" alt="">
                             </div><!-- /.tp-product-pic -->
                         </div>
                         <div class="col-md-7">
