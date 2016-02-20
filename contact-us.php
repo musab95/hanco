@@ -54,14 +54,10 @@
               <div class="col-md-6">
                 <label class="control-label" for="selectbasic">Select Option</label>
                     <select id="selectbasic" name="product" class="form-control">
-                      <option value="rolled">Rolled</option>
-                      <option value="sheet steel">Sheet Steel</option>
-                      <option value="steel pipe">Steel Pipe</option>
-                      <option value="copper base">Copper Base</option>
-                      <option value="steel forgings">Steel Forgings</option>
-                      <option value="plates">Plates</option>
-                      <option value="bars">Bars</option>
-                      <option value="rails">Rails</option>
+                      <option value="Tee">Tee</option>
+                      <option value="cap">Cap</option>
+                      <option value="Elbow">Elbow</option>
+                      <option value="Reducer">Reducer</option>
                     </select>
               </div>
             </div>
